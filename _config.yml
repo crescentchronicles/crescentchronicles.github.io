@@ -20,7 +20,7 @@
 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://crescentchronicles.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #######################################################################
 # Settings related to the Header and your About page go here,such as 
@@ -28,14 +28,14 @@ url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for you
 # your social media links etc
 #######################################################################
 
-heading: Simply Jekyll
+heading: Chicago by Night
 subheading: # subheading won't work without a tagline, 
           # tagline is mandatory if you want the 
           # suheading to appear. The reason is
           # having a heading and a subheading looks 
           # ridiculous.
   enabled: true
-  name: Notes and Thoughts
+  name: Chronicle Wiki
 tagline: # subheading won't work without a tagline, 
          # tagline is mandatory if you want the 
          # suheading to appear. The reason is
@@ -45,13 +45,13 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: An experiment to spark conversations
+  name: "Vampire: the Masquerade 5th Edition"
 copyright: 
-  year: 2020
-  msg: Raghuveer S # This is a mandatory attribute for copyright to be displayed
+  year: 2024
+  msg: Crescent Chronicles # This is a mandatory attribute for copyright to be displayed
 
 user:
-  display: true # setting it to false will remove the header image and bio
+  display: false # setting it to false will remove the header image and bio
                 # Note that user settings come wholesale, it does not have the 
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
@@ -87,9 +87,9 @@ preferences:
   wiki_style_link: # This property handles wiki style links '[['
     enabled: true
   sidenotes: 
-    enabled: true
+    enabled: false
   transclusion:
-    enabled: true
+    enabled: false
   image:
     enabled: true
   pagepreview:
@@ -123,15 +123,13 @@ encoding: utf-8
 # Build settings
 theme: null
 plugins:
-  - jekyll-feed 
-  - jekyll-sitemap 
   - jekyll-tidy
 
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: rgvr
+    shortname:
 
 markdown: kramdown
 
