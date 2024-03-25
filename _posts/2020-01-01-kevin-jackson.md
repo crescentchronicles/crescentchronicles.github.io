@@ -1,5 +1,6 @@
 ---
 title: Kevin Jackson
+tags: Kindred
 ---
 Kevin Jackson is [Prince](https://vtm.paradoxwikis.com/Camarilla#Prince) of Chicago.
 # Plot

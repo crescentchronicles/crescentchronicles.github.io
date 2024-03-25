@@ -1,5 +1,6 @@
 ---
 title: Jason Newberry
+tags: Kindred
 ---
 Jason is Chicago's [Malkavian](https://vtm.paradoxwikis.com/Malkavian) [Primogen](https://vtm.paradoxwikis.com/Camarilla#Primogen).
 # Plot

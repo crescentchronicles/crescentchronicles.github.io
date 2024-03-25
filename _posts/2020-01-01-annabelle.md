@@ -1,5 +1,6 @@
 ---
 title: Annabelle
+tags: Kindred
 ---
 Annabelle is the [Toreador](https://vtm.paradoxwikis.com/Toreador) [Primogen](https://vtm.paradoxwikis.com/Camarilla#Primogen) of Chicago infamous for throwing lavish and exclusive parties.
 # Plot

@@ -1,5 +1,6 @@
 ---
 title: The Coterie
+tags: Coteries
 ---
 # Members
 - [[Christopher]]
